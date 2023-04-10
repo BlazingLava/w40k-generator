@@ -16,14 +16,14 @@ Battalion_Composition = {
 }
 
 Patrol_Composition = {
-    "HQ": (1, 2),
-    "Troop": (1, 3),
-    "Elite": (0, 2),
-    "Fast_Attack": (0, 2),
-    "Heavy_Support": (0, 2),
-    "Flyer": (0, 2),
+    "HQ": (1, 3),
+    "Troop": (2, 6),
+    "Elite": (0, 4),
+    "Fast_Attack": (0, 3),
+    "Heavy_Support": (0, 3),
+    "Flyer": (0, 3),
     "Dedicated_Transport": (0, 9e9),
-    "Lord_of_War": (0, 0),
+    "Lord_of_War": (0, 1),
     "Fortification": (0, 0),
     "Other": (0, 9e9),
 }
